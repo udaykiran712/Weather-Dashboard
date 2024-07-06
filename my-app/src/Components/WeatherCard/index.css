@@ -1,0 +1,50 @@
+.weather-card{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0px 10px 0px 10px;
+    border-radius: 12px;
+    border: 2.5px solid lightgray;
+    background-color: rgba(123, 138, 140, 0.115);
+    margin-right: 8vh;
+    width: 12%;
+  }
+
+@media (max-width:768px) {
+    .weather-card{
+        margin-bottom: 4vh;
+        margin-right: 2vh;
+        width: 25%;
+    }
+}
+
+
+@media (max-width:1100px) {
+    .weather-card{
+        margin-bottom: 2vh;
+        margin-right: 4vh;
+
+    }
+}
+  .day-name{
+    font-weight: 500;
+    align-self: flex-start;
+  }
+
+  .weather-icon{
+    align-self: center;
+    width: 75%;
+  }
+  
+  .temp-container{
+    align-self: flex-end;
+    font-weight: 500;
+    font-size: 13px;
+  }
+  
+  .low-temp{
+    margin-top: -2vh;
+    color: rgb(19, 19, 19);
+
+  }

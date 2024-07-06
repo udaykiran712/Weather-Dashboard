@@ -1,0 +1,123 @@
+.App-container{
+background-color: aliceblue;
+padding: 25px;
+min-height: 100vh;
+}
+
+
+.dashboard-container{
+border: 3px solid lightgray;
+min-height: 90vh;
+padding: 0px 25px 15px 25px;
+border-radius: 12px;
+background-color: white;
+}
+
+
+
+.main-weather-heading{
+  font-size: 30px;
+}
+
+.first-container{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.convert-button{
+  border: 0;
+  border-radius: 50%;
+  width: 60px;
+  font-size: 15px;
+  height: 60px;
+  font-weight: 700;
+  color: white;
+  cursor: pointer;
+  background-color: black;
+}
+
+.input-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.search-container {
+  border-radius: 22px;
+  font-size: 15px;
+  outline: none;
+  background-color: rgb(231, 235, 235);
+  padding: 15px 0px 15px 25px;
+  border: 0;
+  width: 80%;
+  font-weight: 400;
+}
+
+.search-button{
+  border: 0;
+  outline: none;
+  background-color: rgb(45, 188, 45);
+color: white;
+padding: 15px 20px 15px 20px;
+border-radius: 25px;
+cursor: pointer;
+font-weight: 500;
+}
+
+.loading-container{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 70vh;
+}
+
+.current-weather-container{
+  margin-top: 3vh;
+  border: 3px solid lightblue;
+  background-color: aliceblue;
+  border-radius: 12px;
+  padding: 0px 15px 20px 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 15px;
+  font-weight: 500;
+  color: rgb(40, 42, 42);
+
+}
+
+.weather-condition{
+  color: grey;
+  font-size: 20px;
+}
+
+.main-weather-icon{
+  width: 15%;
+  margin-right: 10vh;
+}
+
+
+
+.five-day-head{
+  color: rgb(40, 42, 42);
+}
+
+.weather-cards-container{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  margin-left: -5vh;
+}
+
+.degrees{
+  font-size: 40px;
+  margin-top: -3vh;
+  margin-bottom: -2vh;
+}
+
+
+
+
+
