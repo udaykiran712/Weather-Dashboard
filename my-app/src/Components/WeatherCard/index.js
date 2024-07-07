@@ -14,7 +14,7 @@ const imageLink = `http://openweathermap.org/img/w/${weatherIcon}.png`
 <img className="weather-icon" src={imageLink} alt={weather}  />
 
 <div className="temp-container">
-<p>High:{highTemp}&deg;{units} </p>
+<p>High: {highTemp}&deg;{units} </p>
 <p className="low-temp">Low: {lowTemp}&deg;{units}</p>
     
 </div>

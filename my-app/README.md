@@ -1,13 +1,14 @@
 WEATHER DASHBOARD
 
+App Live Link: https://heartfelt-macaron-7cae15.netlify.app/
+
 This website provides the weather forecast based on the city name provided.
 
 Initially, the page consists a input box to provide the city name and a search button.
 
 To get the weather forecast , Enter a city name and click on the search button.
 
-When the search button gets clicked, a GET request is triggered to the integrated openweathermap API and results will be 
-displayed accordingly.
+When the search button gets clicked, a GET request is triggered to the integrated openweathermap API and results will be  displayed accordingly.
 Results will be displayed based on the current API Status,
 --> During the API request time a loader spinner is displayed.
 --> upon successful integration the weather Forecast will be displayed.
@@ -20,6 +21,5 @@ The Results will be:
 By Default all the temperatures will be in Degrees(&deg;C).
 To Convert into Fahrenheit(&deg;F) A Toggle button is provided to change from Celcius To Fahrenheit and Vice Versa. 
 
-The Weather Forecast details are calculated based on End of the each particular day.
 --> All the details in Weather Forecast like high Temp, Low Temp are calculated at the end of the particular day.
 The Current Weather is calculated approxiamately to the nearest TimeStamp provided by the openweathermap.
