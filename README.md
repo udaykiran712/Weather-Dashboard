@@ -16,7 +16,7 @@ Results will be displayed based on the current API Status,
 
 The Results will be:
 --> current Temperature, weather condition and a weather icon related to the weather condition.
---> Next, A 5-Day weather Forecast will be displayed which contains the day, weather condition icon , high Temp and Low Temp.
+--> Next, A 5-Day weather Forecast will be displayed which contains the day name, weather condition icon , high Temp and Low Temp.
 
 By Default all the temperatures will be in Degrees(&deg;C).
 To Convert into Fahrenheit(&deg;F) A Toggle button is provided to change from Celcius To Fahrenheit and Vice Versa. 
