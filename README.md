@@ -22,4 +22,4 @@ By Default all the temperatures will be in Degrees(&deg;C).
 To Convert into Fahrenheit(&deg;F) A Toggle button is provided to change from Celcius To Fahrenheit and Vice Versa. 
 
 --> All the details in Weather Forecast like high Temp, Low Temp are calculated at the end of the particular day.
-The Current Weather is calculated approxiamately to the nearest TimeStamp provided by the openweathermap.
+The Current Weather is calculated approximately to the nearest TimeStamp provided by the openweathermap.
