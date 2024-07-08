@@ -4,7 +4,7 @@ App Live Link: https://heartfelt-macaron-7cae15.netlify.app/
 
 This website provides the weather forecast based on the city name provided.
 
-Initially, the page consists a input box to provide the city name and a search button.
+Initially, the page consists of an input box to provide a city name and the search button.
 
 To get the weather forecast , Enter a city name and click on the search button.
 
@@ -22,4 +22,4 @@ By Default all the temperatures will be in Degrees(&deg;C).
 To Convert into Fahrenheit(&deg;F) A Toggle button is provided to change from Celcius To Fahrenheit and Vice Versa. 
 
 --> All the details in Weather Forecast like high Temp, Low Temp are calculated at the end of the particular day.
-The Current Weather is calculated approxiamately to the nearest TimeStamp provided by the openweathermap.
+The Current Weather is calculated approximately to the nearest TimeStamp provided by the openweathermap.
