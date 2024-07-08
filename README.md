@@ -4,7 +4,7 @@ App Live Link: https://heartfelt-macaron-7cae15.netlify.app/
 
 This website provides the weather forecast based on the city name provided.
 
-Initially, the page consists of an input box to provide a city name and a search button.
+Initially, the page consists of an input box to provide a city name and the search button.
 
 To get the weather forecast , Enter a city name and click on the search button.
 
